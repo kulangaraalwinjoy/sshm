@@ -8,10 +8,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/alwin/sshm/internal/config"
-	"github.com/alwin/sshm/internal/logging"
-	"github.com/alwin/sshm/internal/vault"
-	"github.com/alwin/sshm/pkg/models"
+	"github.com/kulangaraalwinjoy/sshm/internal/config"
+	"github.com/kulangaraalwinjoy/sshm/internal/logging"
+	"github.com/kulangaraalwinjoy/sshm/internal/vault"
+	"github.com/kulangaraalwinjoy/sshm/pkg/models"
 )
 
 func TestSecurity_SecretsNotInListOrJSON(t *testing.T) {

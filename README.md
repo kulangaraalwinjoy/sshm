@@ -57,7 +57,7 @@ Move `sshm-windows-amd64.exe` into a folder included in your system `PATH` (such
 Requirements: Go 1.23+ and Make.
 
 ```bash
-git clone https://github.com/alwin/sshm.git
+git clone https://github.com/kulangaraalwinjoy/sshm.git
 cd sshm
 make build
 ./bin/sshm --version

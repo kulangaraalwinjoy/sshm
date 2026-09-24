@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/alwin/sshm/pkg/models"
+	"github.com/kulangaraalwinjoy/sshm/pkg/models"
 )
 
 // DefaultConfigPath returns the standard OpenSSH configuration path for the current OS.

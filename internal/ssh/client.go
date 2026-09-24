@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/alwin/sshm/internal/knownhosts"
-	"github.com/alwin/sshm/internal/logging"
-	"github.com/alwin/sshm/pkg/models"
+	"github.com/kulangaraalwinjoy/sshm/internal/knownhosts"
+	"github.com/kulangaraalwinjoy/sshm/internal/logging"
+	"github.com/kulangaraalwinjoy/sshm/pkg/models"
 	"golang.org/x/crypto/ssh"
 )
 

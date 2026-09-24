@@ -3,10 +3,10 @@ package cli
 import (
 	"fmt"
 
-	"github.com/alwin/sshm/internal/cli/ui"
-	"github.com/alwin/sshm/internal/config"
-	"github.com/alwin/sshm/internal/logging"
-	"github.com/alwin/sshm/internal/vault"
+	"github.com/kulangaraalwinjoy/sshm/internal/cli/ui"
+	"github.com/kulangaraalwinjoy/sshm/internal/config"
+	"github.com/kulangaraalwinjoy/sshm/internal/logging"
+	"github.com/kulangaraalwinjoy/sshm/internal/vault"
 	"github.com/spf13/cobra"
 )
 

@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/alwin/sshm/internal/cli/ui"
-	"github.com/alwin/sshm/pkg/models"
+	"github.com/kulangaraalwinjoy/sshm/internal/cli/ui"
+	"github.com/kulangaraalwinjoy/sshm/pkg/models"
 	"github.com/spf13/cobra"
 )
 

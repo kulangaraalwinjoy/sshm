@@ -5,9 +5,9 @@ import (
 	"net"
 	"os"
 
-	"github.com/alwin/sshm/internal/cli/ui"
-	"github.com/alwin/sshm/internal/logging"
-	"github.com/alwin/sshm/pkg/models"
+	"github.com/kulangaraalwinjoy/sshm/internal/cli/ui"
+	"github.com/kulangaraalwinjoy/sshm/internal/logging"
+	"github.com/kulangaraalwinjoy/sshm/pkg/models"
 	"golang.org/x/crypto/ssh"
 	"golang.org/x/crypto/ssh/agent"
 )

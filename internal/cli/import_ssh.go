@@ -3,8 +3,8 @@ package cli
 import (
 	"fmt"
 
-	"github.com/alwin/sshm/internal/cli/ui"
-	"github.com/alwin/sshm/internal/sshconfig"
+	"github.com/kulangaraalwinjoy/sshm/internal/cli/ui"
+	"github.com/kulangaraalwinjoy/sshm/internal/sshconfig"
 	"github.com/spf13/cobra"
 )
 

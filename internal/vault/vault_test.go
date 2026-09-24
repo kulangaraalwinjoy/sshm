@@ -5,8 +5,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/alwin/sshm/internal/config"
-	"github.com/alwin/sshm/pkg/models"
+	"github.com/kulangaraalwinjoy/sshm/internal/config"
+	"github.com/kulangaraalwinjoy/sshm/pkg/models"
 )
 
 func setupTestVault(t *testing.T) (*Vault, string) {

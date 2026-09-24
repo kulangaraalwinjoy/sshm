@@ -7,7 +7,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/alwin/sshm/internal/cli/ui"
+	"github.com/kulangaraalwinjoy/sshm/internal/cli/ui"
 	"golang.org/x/term"
 )
 

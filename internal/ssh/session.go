@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/alwin/sshm/internal/logging"
+	"github.com/kulangaraalwinjoy/sshm/internal/logging"
 	"golang.org/x/crypto/ssh"
 	"golang.org/x/term"
 )

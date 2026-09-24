@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/alwin/sshm/internal/cli/ui"
-	"github.com/alwin/sshm/internal/logging"
+	"github.com/kulangaraalwinjoy/sshm/internal/cli/ui"
+	"github.com/kulangaraalwinjoy/sshm/internal/logging"
 	"github.com/pkg/sftp"
 )
 

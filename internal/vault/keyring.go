@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/alwin/sshm/internal/logging"
+	"github.com/kulangaraalwinjoy/sshm/internal/logging"
 	"github.com/zalando/go-keyring"
 )
 

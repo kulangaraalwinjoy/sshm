@@ -2,7 +2,7 @@ BINARY_NAME=sshm
 VERSION ?= 1.0.0
 COMMIT ?= $(shell git rev-parse --short HEAD 2>/dev/null || echo "dev")
 DATE ?= $(shell date -u +"%Y-%m-%dT%H:%M:%SZ")
-LDFLAGS = -ldflags "-X github.com/alwin/sshm/internal/cli.Version=$(VERSION) -X github.com/alwin/sshm/internal/cli.Commit=$(COMMIT) -X github.com/alwin/sshm/internal/cli.BuildDate=$(DATE)"
+LDFLAGS = -ldflags "-X github.com/kulangaraalwinjoy/sshm/internal/cli.Version=$(VERSION) -X github.com/kulangaraalwinjoy/sshm/internal/cli.Commit=$(COMMIT) -X github.com/kulangaraalwinjoy/sshm/internal/cli.BuildDate=$(DATE)"
 
 .PHONY: all build test race lint clean cross-compile
 

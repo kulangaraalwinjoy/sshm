@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/alwin/sshm/internal/logging"
+	"github.com/kulangaraalwinjoy/sshm/internal/logging"
 	"golang.org/x/crypto/ssh"
 )
 

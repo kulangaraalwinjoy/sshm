@@ -7,9 +7,9 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/alwin/sshm/internal/cli/ui"
-	"github.com/alwin/sshm/internal/knownhosts"
-	"github.com/alwin/sshm/internal/ssh"
+	"github.com/kulangaraalwinjoy/sshm/internal/cli/ui"
+	"github.com/kulangaraalwinjoy/sshm/internal/knownhosts"
+	"github.com/kulangaraalwinjoy/sshm/internal/ssh"
 	"github.com/spf13/cobra"
 )
 

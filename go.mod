@@ -1,4 +1,4 @@
-module github.com/alwin/sshm
+module github.com/kulangaraalwinjoy/sshm
 
 go 1.26.3
 

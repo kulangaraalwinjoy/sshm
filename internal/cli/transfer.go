@@ -3,11 +3,11 @@ package cli
 import (
 	"strings"
 
-	"github.com/alwin/sshm/internal/cli/ui"
-	"github.com/alwin/sshm/internal/knownhosts"
-	"github.com/alwin/sshm/internal/sftp"
-	"github.com/alwin/sshm/internal/ssh"
-	"github.com/alwin/sshm/internal/transfer"
+	"github.com/kulangaraalwinjoy/sshm/internal/cli/ui"
+	"github.com/kulangaraalwinjoy/sshm/internal/knownhosts"
+	"github.com/kulangaraalwinjoy/sshm/internal/sftp"
+	"github.com/kulangaraalwinjoy/sshm/internal/ssh"
+	"github.com/kulangaraalwinjoy/sshm/internal/transfer"
 	"github.com/spf13/cobra"
 )
 

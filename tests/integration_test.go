@@ -15,12 +15,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/alwin/sshm/internal/knownhosts"
-	"github.com/alwin/sshm/internal/sftp"
-	"github.com/alwin/sshm/internal/ssh"
-	"github.com/alwin/sshm/internal/transfer"
-	"github.com/alwin/sshm/pkg/models"
-	"github.com/alwin/sshm/testserver"
+	"github.com/kulangaraalwinjoy/sshm/internal/knownhosts"
+	"github.com/kulangaraalwinjoy/sshm/internal/sftp"
+	"github.com/kulangaraalwinjoy/sshm/internal/ssh"
+	"github.com/kulangaraalwinjoy/sshm/internal/transfer"
+	"github.com/kulangaraalwinjoy/sshm/pkg/models"
+	"github.com/kulangaraalwinjoy/sshm/testserver"
 	gossh "golang.org/x/crypto/ssh"
 )
 

@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/alwin/sshm/pkg/models"
+	"github.com/kulangaraalwinjoy/sshm/pkg/models"
 )
 
 const (
