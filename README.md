@@ -1,5 +1,8 @@
 # SSHM: Secure Cross-Platform SSH & SFTP Manager
 
+> [!NOTE]
+> ⚡ **Vibe Coded**: This project was completely vibe coded.
+
 **SSHM** (`sshm`) is a secure, production-ready, standalone cross-platform CLI tool for managing SSH server connections, establishing port-forwarding tunnels, and transferring files over SFTP.
 
 Built with **Go**, `golang.org/x/crypto/ssh`, `github.com/pkg/sftp`, and `github.com/spf13/cobra`, SSHM runs natively as a single binary on **macOS**, **Linux**, and **Windows**.
