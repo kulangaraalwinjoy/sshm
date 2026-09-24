@@ -1,0 +1,24 @@
+# Binaries
+bin/
+dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+sshm
+
+# Test artifacts
+coverage.out
+coverage.html
+
+# IDE and OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# Temporary files
+scratch/
+tmp/
