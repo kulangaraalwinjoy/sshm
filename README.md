@@ -370,4 +370,4 @@ go vet ./...
 
 ## License
 
-MIT License. See [LICENSE](file:///Users/alwin/code/sshm/LICENSE) for details.
+MIT License. See [LICENSE](LICENSE) for details.
